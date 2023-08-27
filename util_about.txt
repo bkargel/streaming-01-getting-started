@@ -2,7 +2,7 @@
 ======================================================================
 ======================================================================
  Welcome to the NW Python Debugging Information Utility!
- Date and Time: 2023-08-27 at 03:15 PM
+ Date and Time: 2023-08-27 at 04:24 PM
  Operating System: nt Windows 10
  System Architecture: 64bit
  Number of CPUs: 8
@@ -15,8 +15,8 @@
  Path to Interpreter:         C:\Users\bakar\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe
  Path to virtual environment: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0
  Current Working Directory:   C:\Users\bakar\44-671\.venv\streaming-01-getting-started
- Path to source directory:    C:\Users\bakar\44-671\.venv\streaming-01-getting-started
- Path to script file:         C:\Users\bakar\44-671\.venv\streaming-01-getting-started\util_about.py
+ Path to source directory:    c:\Users\bakar\44-671\.venv\streaming-01-getting-started
+ Path to script file:         c:\Users\bakar\44-671\.venv\streaming-01-getting-started\util_about.py
  User's Home Directory:       C:\Users\bakar
  Terminal Environment:        VS Code
  Terminal Type:               cmd.exe
