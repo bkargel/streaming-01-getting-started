@@ -22,7 +22,6 @@ Remember:
 ## Verify Installations / Update Default Python
 
 In VS Code, open a terminal window (View / Terminal).
-If macOS/Linux, change `python` to `python3` in the commands below.
 
 ```shell
 git --version
@@ -40,7 +39,6 @@ With your repo folder open in VS Code:
 1. If not, click on the bottom status bar where it should show the Python version or might say "Select Python Interpreter".
 1. From the dropdown, choose your default Python version.
 1. In VS Code, open a terminal window (View / Terminal).
-1. If macOS/Linux, change `python` to `python3` below.
 
 ```shell
 python util_about.py
